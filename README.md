@@ -4,7 +4,7 @@ Built my personal website, so that people can know me a little bit better :).
 ## Technology Stack
 ##### Languages :-
 HTML, CSS, Javascript, Git
-##### Tools:-
+##### Tools :-
 Font Awesome
-##### Environment:-
+##### Environment :-
 Windows(my PC)
