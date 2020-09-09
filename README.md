@@ -1,4 +1,8 @@
 # Personal Website
+Built my personal website, so that people can know me a little bit better :).
 
-My personal website (under construction).
-I'm building this website so that people can get to know me a little bit better :).
+## Technology Stack
+##### Languages :-
+HTML, CSS, Javascript, Git
+##### Environment:-
+Windows(my PC)
