@@ -348,7 +348,7 @@ h5.work-title {
 .thumbnail {
   display: block;
   width: 100%;
-  height: 180px;
+  height: 140px;
   object-fit: cover;
 }
 
