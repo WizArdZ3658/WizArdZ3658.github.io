@@ -397,6 +397,10 @@ h5.work-title {
   font-size: 14px;
 }
 
+.copyright {
+  text-align: center;
+}
+
 #submit-btn {
   margin-top: 10px;
   width: 100%;
