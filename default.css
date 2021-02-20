@@ -154,35 +154,6 @@ h5.work-title {
   margin-left: 5px;
 }
 
-.dots-wrapper {
-  display: flex;
-  padding: 10px;
-}
-
-#dot-1 {
-  background-color: #fc6058;
-}
-
-#dot-2 {
-  background-color: #fec02f;
-}
-
-#dot-3 {
-  background-color: #2aca3e;
-}
-
-.browser-dot {
-  background-color: black;
-  height: 15px;
-  width: 15px;
-  border-radius: 50%;
-  margin: 5px;
-
-  -webkit-box-shadow: -1px 1px 3px -1px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: -1px 1px 3px -1px rgba(0, 0, 0, 0.75);
-  box-shadow: -1px 1px 3px -1px rgba(0, 0, 0, 0.75);
-}
-
 .left-column {
   grid-area: left-column;
   padding-top: 50px;
@@ -192,9 +163,9 @@ h5.work-title {
 #profile_pic {
   display: block;
   margin: 0 auto;
-
-  height: 200px;
-  width: 200px;
+  border-radius: 50%;
+  height: 350px;
+  width: 350px;
   object-fit: cover;
   border: 2px solid var(--borderColor);
 }
@@ -229,7 +200,7 @@ h5.work-title {
 }
 
 #blue-mode {
-  background-color: #192734;
+  background-color: #000000;
 }
 
 #green-mode {
